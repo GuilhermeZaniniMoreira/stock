@@ -1,0 +1,10 @@
+body {
+    padding: 50px 200px 50px 200px;
+}
+
+body p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 26px;
+    text-align: center
+}
